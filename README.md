@@ -5,7 +5,7 @@
 - Application Web de guidage 
 - Interface Web de parametrage
 - BDD
-## Foncionnalitées
+## Fonctionnalités
 ### Application de guidage 
   - Accès au guidage par QR Code
   - Menu des déstinations
